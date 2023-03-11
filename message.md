@@ -4,3 +4,7 @@ This is an example repository for the Git tutorial on
 https.//www.w3schools.com
 
 This repository is built step bu step in the tutorial.
+<<<<<<< HEAD
+=======
+It now includes steps for Github
+>>>>>>> origin/master
